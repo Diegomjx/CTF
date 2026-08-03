@@ -1,3 +1,5 @@
+# Provisioneds
+
 During the enumeration of the target, a Joomla installation was identified exposing a custom system plugin named **Gatehouse**. Further source-code analysis revealed that the plugin handled a `ledger` parameter through an administrative endpoint:
 
 ```
