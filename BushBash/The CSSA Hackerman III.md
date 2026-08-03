@@ -1,4 +1,4 @@
-![[Pasted image 20260803102215.png]]
+![[assets/Pasted image 20260803102215.png]]
 
 Metadata
 
@@ -21,19 +21,19 @@ Para acotar el área de búsqueda, el primer paso consiste en determinar la dire
 Para corroborar esto, se utilizó una herramienta de trayectoria solar  ([alpenglowapp](https://alpenglowapp.com)). Al contrastar la iluminación de la escena y la proyección de las sombras con la posición del atardecer, se determinó que la cámara se encuentra orientada hacia el **Suroeste**. 
 
 
-![[Pasted image 20260803110023.png]]
+![[assets/Pasted image 20260803110023.png]]
 
 Al cruzar la orientación obtenida con el trazado urbano de Canberra, se identificó que la única sección de la ciudad que presenta calles alineadas y con vistas hacia edificios en dirección al **Suroeste** es la siguiente:
 
-![[Pasted image 20260803113412.png]]
+![[assets/Pasted image 20260803113412.png]]
 
 Con el radio de búsqueda reducido, el siguiente paso consistió en analizar los elementos específicos de la infraestructura urbana presentes en la imagen para lograr una geolocalización exacta:
 
-![[Pasted image 20260803112509.png]]
+![[assets/Pasted image 20260803112509.png]]
 
 Un detalle clave en la imagen es el tendido de cables eléctricos que cruza sobre la calle. Dado que este tipo de cableado aéreo es poco común en las zonas modernas de Canberra, su presencia reduce drásticamente el rango de búsqueda a unos pocos puntos específicos. Debido a que estos cables son difíciles de identificar desde la vista aérea satelital, se tomaron como referencias secundarias la señal de tráfico y la posición exacta del árbol debajo de ellos. Tras inspeccionar sistemáticamente los aproximadamente 18 puntos con cableado aéreo en la zona delimitada, se logró localizar el punto exacto:
 
-![[Pasted image 20260803115949.png]]
+![[assets/Pasted image 20260803115949.png]]
  [-35.278353,149.1443443]
 
 El sitio localizado coincide con casi la totalidad de los elementos visuales de la imagen original, con una única excepción: la presencia de los semáforos actuales. Mi hipótesis es que la fotografía analizada data aproximadamente del año 2022, un periodo previo a la instalación de esta infraestructura vial por parte del municipio. Dejando de lado esto, todos los demás componentes confirman la geolocalización de forma inequívoca: el diseño del edificio al fondo, la estructura de la casa adyacente, la disposición del cableado, las marcas o huellas en el asfalto y la alineación de la vegetación (incluyendo el segundo árbol, cuyo crecimiento se mantiene idéntico).
