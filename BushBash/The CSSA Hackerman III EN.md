@@ -1,4 +1,4 @@
-![[Pasted image 20260803102215.png]]
+![[https://github.com/Diegomjx/CTF/tree/master/BushBash/assets/Pasted image 20260803102215.png]]
 
 Metadata
 
